@@ -15,28 +15,26 @@ Here are the steps to follow:
 Here are the steps to follow:
 - Download the source code
 - Extract the files to the desired folder
+
+
+![alt text](https://cdn.discordapp.com/attachments/829769233021009920/1075368577235951677/image.png)
+
+Source: https://cdn.discordapp.com/attachments/829769233021009920/1075368577235951677/image.png
+
+## Démarrage
+
 - Go to the /dist directory
 - Create a shortcut of 'KydUpgrade.exe' on the desktop.
 - Launch the application
 
 
-
-![alt text](https://cdn.discordapp.com/attachments/829769233021009920/1075368577235951677/image.png)
-
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
-
 ## Fabriqué avec
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
+Visual Studio Code
 
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+_Link :_
+* [Materialize.css](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjCkIiorpf9AhVTT8AKHURBAEQQFnoECBEQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml) 
+
 
 ## Contributing
 
