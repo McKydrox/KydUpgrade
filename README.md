@@ -2,12 +2,12 @@
 KydUpgrade
 
 
-## Pour commencer
+## To start
 
 Here are the steps to follow:
 - Download the source code
 
-### Installation
+### Facilitie
 
 Here are the steps to follow:
 - Download the source code
@@ -18,14 +18,14 @@ Here are the steps to follow:
 
 Source: https://cdn.discordapp.com/attachments/829769233021009920/1075368577235951677/image.png
 
-## Démarrage
+## Startup
 
 - Go to the /dist directory
 - Create a shortcut of 'KydUpgrade.exe' on the desktop.
 - Launch the application
 
 
-## Fabriqué avec
+## Made with
 
 Visual Studio Code
 
@@ -41,7 +41,8 @@ _exemple :_
 Releases : [Cliquer pour afficher](https://github.com/McKydrox/KydUpgrade/releases/tag/Upgrade)
 
 
-## Auteurs
+## Authors
+
 
 * **McKydrox* _alias_ [ҠψDrФX#2933](https://discord.com)
 
