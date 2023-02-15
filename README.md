@@ -1,9 +1,6 @@
 # Titre du projet
 KydUpgrade
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
-
-This application will allow you to update any application on your pc. Fast and very efficient!
 
 ## Pour commencer
 
